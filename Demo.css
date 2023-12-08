@@ -1,0 +1,37 @@
+#srt
+{
+    color:green
+}
+.sry
+{
+    color:red
+}
+p,h1
+{
+    font-weight: 800;
+}
+*
+{
+    background-color: black;
+}
+
+    a:link
+    {
+        color:green;
+    }
+    a:visited
+    {
+        color:red;
+    }
+    a:hover
+    {
+        color:aquamarine;
+        background-size: cover;
+        
+    }a:active
+    {
+        color:yellow;
+        background-size: cover;
+        
+    }
+    
